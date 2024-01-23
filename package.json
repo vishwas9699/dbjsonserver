@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/vishwas9699/dbjsonserver/issues"
   },
-  "homepage": "https://github.com/vishwas9699/dbjsonserver#readme"
+  "homepage": "https://github.com/vishwas9699/dbjsonserver#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-alpha.22"
+  }
 }
